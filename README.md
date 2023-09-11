@@ -1,4 +1,4 @@
-# credit_risk_prediction
+# Credit Risk Prediction
 A MACHINE LEARNING APPROACH TO CREDIT RATING PREDICTION AND EVALUATION 
 
 Credit rating prediction is a crucial task in the banking and financial industry. Financial firms want to identify the likelihood of customers repaying loans or credit. With the advent of machine learning algorithms and big data analytics, it is now possible to automate and improve the accuracy of credit rating prediction. 
